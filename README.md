@@ -1,9 +1,20 @@
 <h1>Coffee Shop Sales Analysis (Interactive Dashboard Using Ms Excel)</h1>
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h2>Project Objective</h2>
+The Coffee shop wants to analyse its sales data of three years (2019, 2020, 2021) to get insight on how to improve their marketing strategies in the coming years.
 <br />
 
+<h2>Description</h2>
+This project involves the creation of an interactive dashboard to visualize coffee sales data for a coffee shop. The dashboard provides a comprehensive view of sales trends, geographic performance, customer behavior, and product preferences, enabling data-driven decision-making. Built with a user-friendly interface, the dashboard allows stakeholders to filter and explore the data dynamically, revealing key insights for improving sales strategies and customer engagement.
+<br />
+
+<h2>Questions</h2>
+-What is the overall sales of different coffee types over time? Quarterly, anually? <br />
+-Which country generates the most revenues? <br />
+-What are the top 5 customers? What is their preferred coffee type, roast type and size? <br />
+-What is the most preferred package weight? <br />
+-What is the impact of loyalty card on sales? <br />
+-What sales volumes are associated with specific combinations of roast types and sizes? <br />
 
 <h2>Languages and Utilities Used</h2>
 
