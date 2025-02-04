@@ -9,22 +9,17 @@ This project involves the creation of an interactive dashboard to visualize coff
 <br />
 
 <h2>Questions</h2>
--What is the overall sales of different coffee types over time? Quarterly, anually? <br />
--Which country generates the most revenues? <br />
--What are the top 5 customers? What is their preferred coffee type, roast type and size? <br />
--What is the most preferred package weight? <br />
--What is the impact of loyalty card on sales? <br />
--What sales volumes are associated with specific combinations of roast types and sizes? <br />
+- What is the overall sales of different coffee types over time? Quarterly, anually? <br />
+- Which country generates the most revenues? <br />
+- What are the top 5 customers? What is their preferred coffee type, roast type and size? <br />
+- What is the most preferred package weight? <br />
+- What is the impact of loyalty card on sales? <br />
+- What sales volumes are associated with specific combinations of roast types and sizes? <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Dashboard Interaction and Dataset</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
+- Dashboard interaction <a href="https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis/blob/main/Screenshot%202025-02-04%20at%2003.30.10.png"> View Dashboard</a></b> 
+- Dataset Used <a href="https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis/blob/main/Screenshot%202025-02-04%20at%2003.30.10.png"> View Dashboard</a></b> 
 <h2>Program walk-through:</h2>
 
 
