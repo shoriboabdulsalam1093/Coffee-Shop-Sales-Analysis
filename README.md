@@ -19,7 +19,8 @@ This project involves the creation of an interactive dashboard to visualize coff
 <h2>Dashboard Interaction and Dataset</h2>
 
 - Dashboard interaction <a href="https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis/blob/main/Screenshot%202025-02-04%20at%2003.30.10.png"> View Dashboard</a></b> 
-- Dataset Used <a href="https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis/blob/main/Screenshot%202025-02-04%20at%2003.30.10.png"> View Dashboard</a></b> 
+- Dataset Used <a href="https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis/blob/main/CoffeeSalesRawData.xlsx"> Raw Data</a></b>
+- <a href="https://github.com/shoriboabdulsalam1093/Coffee-Shop-Sales-Analysis/blob/main/CoffeeSalesRawData.xlsx"> Analysed Data</a></b>
 <h2>Program walk-through:</h2>
 
 
